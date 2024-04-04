@@ -1,0 +1,15 @@
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\bin\Debug\net6.0\DevopsAsign.exe
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\bin\Debug\net6.0\DevopsAsign.deps.json
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\bin\Debug\net6.0\DevopsAsign.runtimeconfig.json
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\bin\Debug\net6.0\DevopsAsign.dll
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\bin\Debug\net6.0\DevopsAsign.pdb
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\DevopsAsign.csproj.AssemblyReference.cache
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\DevopsAsign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\DevopsAsign.AssemblyInfoInputs.cache
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\DevopsAsign.AssemblyInfo.cs
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\DevopsAsign.csproj.CoreCompileInputs.cache
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\DevopsAsign.dll
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\refint\DevopsAsign.dll
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\DevopsAsign.pdb
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\DevopsAsign.genruntimeconfig.cache
+C:\Users\rishabhmadan\source\repos\DevopsAsign\DevopsAsign\obj\Debug\net6.0\ref\DevopsAsign.dll
